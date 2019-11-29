@@ -1,5 +1,5 @@
 # Content-Grabber
-A content grabber Flipkart website is made. 
+A content grabber for Flipkart website is made (Laptop Section). 
 
 ## Contents grabbed 
 			1. Product description
